@@ -2,7 +2,7 @@
 The Radijo Programa is an archival project that documents Lithuania's radio history from the start to Today, preserving Lithuania's radio history.
 
 # PROGRESS: 0%
-[🎵👂Kur klausytis radijo](-)
+[🎵👂Kur klausytis radijo](https://github.com/Zorklis/Radijo-Programa/blob/main/Radijas.csv)
 ---
 ### [Radijo programų puslapiai](-)
 ---
